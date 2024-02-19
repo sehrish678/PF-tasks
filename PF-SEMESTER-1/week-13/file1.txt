@@ -1,0 +1,11 @@
+A.C.,Haier,10,200000
+Laptop,HP,14,100000
+HeadPhones,Sony,15,45000
+SmartPhones,Samsung,17,100000
+Digitalcameras,Canon,16,50000
+SmartWatch,LG,11,35000
+Tablets,Apple,9,80000
+UPS,Belkin,8,150000
+LED,MaxLite,14,120000
+Printers,Dell,7,60000
+sehr,12,3,3
